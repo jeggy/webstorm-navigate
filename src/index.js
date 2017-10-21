@@ -1,4 +1,3 @@
-import { firstWord, secondWord } from "./Words/index";
-
+import { firstWord, secondWord } from "./Words";
 
 console.log(`${firstWord} ${secondWord}!`);
